@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: lavender;
+  font-size: 200%;
+}
+div {
+  margin: 0;
+}
+h1 {
+  font-size: 500%;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+  display: inline-block;
+}
+.middle-container {
+  display: inline-block;
+
+}
+.bottom-container {
+  display: inline-block;
+}
+.nor2{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.nor1 {
+  position:absolute;
+  right: 300px;
+    top:50px;
+}
+.avatar{
+  width: 400px;
+  height: 400px;
+}
+.nervos{
+  width: 400px;
+  height: 400px;
+}
+.stranut{
+  width: 400px;
+  height: 400px;
+}
